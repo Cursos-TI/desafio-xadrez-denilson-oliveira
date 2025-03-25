@@ -92,7 +92,7 @@ int main() {
     printf("\nMovimentação do Cavalo (Loop Aninhado):\n");
     moverCavalo();
 
-    printf("\n----- Fim do Desafio -----\n");
+    printf("\n----- Fim -----\n");
 
     return 0;
 }
